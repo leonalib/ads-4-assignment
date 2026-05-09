@@ -57,7 +57,9 @@ DFS has some limitations:
 - it may go too deep before checking other paths
 
 
-
+___
+___
+___
 # ***Report Requirements
 
 ## A. Project Overview
@@ -155,8 +157,6 @@ O(V + E)
 ---
 
 ## Screenshots
-
-### Graphs
 ![img.png](img.png)
 ![img_1.png](img_1.png)
 ![img_2.png](img_2.png)
